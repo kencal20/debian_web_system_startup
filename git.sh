@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo This is the git installer
+apt install git -y
